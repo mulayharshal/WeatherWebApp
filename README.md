@@ -5,6 +5,7 @@ A beautiful and responsive weather forecast app built with **React** and styled 
 ---
 
 ## 🖼️ Preview
+🔗 ***Live Demo***: [meghacast.netlify.app](https://meghacast.netlify.app/)
 
 ![Weather Web App](/src/assets/screenshot.png)
 
